@@ -173,14 +173,14 @@ const About = () => {
             <div className="details-box">
               <div className="year">
                 <BsCalendarDate className="icon"></BsCalendarDate>
-                <p>March 2023 - April 2023</p>
+                <p>February 2023 - April 2023</p>
               </div>
               <h4 className="tertiary-heading margin-bottom-sm">
                 Backend Developer Intern (Remote)
               </h4>
               <p className="description">
                 3W Business Private Limited<br/>
-                Stack: Laravel, JavaScript, Tailwind CSS, Bootstrap
+                Stack: Laravel, Core PHP, MySql, Tailwind CSS, Bootstrap
               </p>
             </div>
           </div>
