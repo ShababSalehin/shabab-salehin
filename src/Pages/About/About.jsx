@@ -27,7 +27,7 @@ const About = () => {
             <div className="info-box">
               <p className="info-title">Website:</p>
               <p className="info">
-                <a href="https://shabab-portfolio.netlify.app/">Click Here</a>
+                <a href="https://shabab-salehin.vercel.app/">Click Here</a>
               </p>
             </div>
             <div className="info-box">
